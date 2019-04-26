@@ -1,4 +1,7 @@
 "Hello git" 
 "Git is awesome." 
+<<<<<<< HEAD
 "Third line" 
 "new thing" 
+=======
+>>>>>>> 44c05603c56c1eeb8dca817c7ed9eae2a6fadad5
